@@ -21,5 +21,5 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sports-management-api.git
-   cd sports-management-api
+   git clone [https://github.com/yourusername/sports-management-api.git](https://github.com/Peddaraju/management-system-service.git)
+   cd management-system-service
