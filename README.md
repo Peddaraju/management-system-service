@@ -14,7 +14,7 @@ This project provides a RESTful API for managing sports and players, using Sprin
 
 Before you begin, ensure you have the following installed:
 - Java 11 or later
-- Maven 3.6 or later
+- Gradle 8.8 or later
 - PostgreSQL 12 or later
 
 ## Installation
